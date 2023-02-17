@@ -70,6 +70,6 @@ The code runs with an initial position of 10<sup>-3</sup>, velocity of 0, stops 
 A posteriori order of convergence
 
 <a href="https://github.com/Shlorki/NumericalHW1">
-  <img src="Images/VdPerr.png" width="100" height="400">
+  <img src="Images/VdPerr.png" width="150" height="350">
 </a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
