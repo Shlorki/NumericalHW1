@@ -55,7 +55,7 @@ The code runs with an initial position of 1 and velocity of 0 and should display
 The error for 4th order Runge-Kutta when solving the homogeneous Helmholtz equation using 100 timesteps is 2.43e-05
 
 <a href="https://github.com/Shlorki/NumericalHW1">
-  <img src="Images/helmpt.png" alt="helmpt" width="80" height="80">
+  <img src="Images/helmpt.png" alt="helmpt" width="400" height="400">
 </a>
 
 
