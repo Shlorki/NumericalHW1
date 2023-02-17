@@ -38,9 +38,11 @@ The modules required in Python are
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-#### 4th order Runge-Kutta method on the Cauchy test problem
+#### 4th order Runge-Kutta method on the Cauchy test problem.
+The code uses the initial value 1 and lambda = 1 and should print the follow statement after running:
 The error for 4th order Runge-Kutta when solving the Cauchy test problem using 1000 timesteps is 5.51e-14
 
+#### Crank-Nicholson method on the Cauchy test problem:
 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
