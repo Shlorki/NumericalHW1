@@ -54,6 +54,9 @@ The error for 2nd order Adams-Bashforth when solving the Cauchy test problem usi
 The code runs with an initial position of 1 and velocity of 0 and should display the following images along with the error statement:
 The error for 4th order Runge-Kutta when solving the homogeneous Helmholtz equation using 100 timesteps is 2.43e-05
 
-![alt text](https://github.com/Shlorki/NumericalHW1/Images/helmpt.png?raw=true)
+<a href="https://github.com/Shlorki/NumericalHW1">
+  <img src="Images/helmpt.png" alt="helmpt" width="80" height="80">
+</a>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
