@@ -35,8 +35,7 @@ The modules required in Python are
 1. Simply download HW1.py or HW1nb.pynb and run in your favorite Python environment
 2. Install required modules
 
-<!-- USAGE EXAMPLES -->
-## Usage
+## Examples
 
 #### 4th order Runge-Kutta method on the Cauchy test problem.
 The code uses the initial value 1, stops at time T=1, and should print the follow statement after running:
@@ -70,6 +69,6 @@ The code runs with an initial position of 10<sup>-3</sup>, velocity of 0, stops 
 A posteriori order of convergence
 
 <a href="https://github.com/Shlorki/NumericalHW1">
-  <img src="Images/VdPerr.png" width="150" height="350">
+  <img src="Images/VdPerr.png" width="150" height="300">
 </a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
