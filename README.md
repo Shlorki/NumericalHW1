@@ -39,18 +39,22 @@ The modules required in Python are
 
 #### 4th order Runge-Kutta method on the Cauchy test problem.
 The code uses the initial value 1, stops at time T=1, and should print the follow statement after running:
+
 The error for 4th order Runge-Kutta when solving the Cauchy test problem using 1000 timesteps is 5.51e-14
 
 #### Crank-Nicholson method on the Cauchy test problem:
 The code uses the initial value 1, stops at time T=1, and should print the follow statement after running:
+
 The error for Crank-Nicholson when solving the Cauchy test problem using 1000 timesteps is 2.27e-07
 
 #### 2nd order Adams-Bashforth method on the Cauchy test problem:
 The code uses the initial value 1, stops at time T=1, and should print the follow statement after running:
+
 The error for 2nd order Adams-Bashforth when solving the Cauchy test problem using 1000 timesteps is 2.49e-06
 
 #### 4th order Runge-Kutta method on the Homogeneous Helmholtz equation:
 The code runs with an initial position of 1, velocity of 0, stops at time T=4&pi, and should display the following images along with the error statement:
+
 The error for 4th order Runge-Kutta when solving the homogeneous Helmholtz equation using 100 timesteps is 2.43e-05
 
 <a href="https://github.com/Shlorki/NumericalHW1">
