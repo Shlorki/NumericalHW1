@@ -56,6 +56,7 @@ The error for 4th order Runge-Kutta when solving the homogeneous Helmholtz equat
 
 <a href="https://github.com/Shlorki/NumericalHW1">
   <img src="Images/helmpt.png" alt="helmpt" width="400" height="300">
+  <img src="Images/helmvp.png" alt="helmpt" width="400" height="300">
 </a>
 
 
