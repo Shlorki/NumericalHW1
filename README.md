@@ -1,6 +1,3 @@
-# NumericalHW1
-Code for Advanced Numerical Analysis HW 1
-
 <h3 align="center">Advanced Numerical Analysis HW 1</h3>
 
   <p align="center">
@@ -41,7 +38,10 @@ The modules required in Python are
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+#### 4th order Runge-Kutta method on the Cauchy test problem
+The error for 4th order Runge-Kutta when solving the Cauchy test problem using 1000 timesteps is 5.51e-14
+
+
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
