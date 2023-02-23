@@ -3,11 +3,6 @@ import scipy.interpolate as interp
 import scipy.optimize as opt
 import matplotlib.pyplot as plt
 import tabulate as tab
-import numpy as np
-import scipy.interpolate as interp
-import scipy.optimize as opt
-import matplotlib.pyplot as plt
-import tabulate as tab
 
 # Runge-Kutta Order 4 in a system of m differential equations
 def RK4(F,T,y0,n,N_int,m):
